@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-landing-page-template/static/css/main.ae42ac5f.css",
-    "main.js": "/react-landing-page-template/static/js/main.edac0420.js",
+    "main.css": "/react-landing-page-template/static/css/main.431b0579.chunk.css",
+    "main.js": "/react-landing-page-template/static/js/main.57c72a28.chunk.js",
+    "main.js.map": "/react-landing-page-template/static/js/main.57c72a28.chunk.js.map",
+    "runtime~main.js": "/react-landing-page-template/static/js/runtime~main.78e5b170.js",
+    "runtime~main.js.map": "/react-landing-page-template/static/js/runtime~main.78e5b170.js.map",
+    "static/js/2.41457aee.chunk.js": "/react-landing-page-template/static/js/2.41457aee.chunk.js",
+    "static/js/2.41457aee.chunk.js.map": "/react-landing-page-template/static/js/2.41457aee.chunk.js.map",
     "index.html": "/react-landing-page-template/index.html",
-    "main.ae42ac5f.css.map": "/react-landing-page-template/static/css/main.ae42ac5f.css.map",
-    "main.edac0420.js.map": "/react-landing-page-template/static/js/main.edac0420.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ae42ac5f.css",
-    "static/js/main.edac0420.js"
-  ]
+    "precache-manifest.66314babbafbec1fabedd72b7e236596.js": "/react-landing-page-template/precache-manifest.66314babbafbec1fabedd72b7e236596.js",
+    "service-worker.js": "/react-landing-page-template/service-worker.js",
+    "static/css/main.431b0579.chunk.css.map": "/react-landing-page-template/static/css/main.431b0579.chunk.css.map"
+  }
 }
