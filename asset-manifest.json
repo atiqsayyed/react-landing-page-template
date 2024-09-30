@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-landing-page-template/static/css/main.ae42ac5f.css",
+    "main.js": "/react-landing-page-template/static/js/main.edac0420.js",
+    "index.html": "/react-landing-page-template/index.html",
+    "main.ae42ac5f.css.map": "/react-landing-page-template/static/css/main.ae42ac5f.css.map",
+    "main.edac0420.js.map": "/react-landing-page-template/static/js/main.edac0420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.edac0420.js"
+  ]
+}
